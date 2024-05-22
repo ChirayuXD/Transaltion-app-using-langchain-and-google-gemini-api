@@ -1,5 +1,3 @@
-Sure, here is the updated README file without the Usage, License, and Example Code sections:
-
 ---
 
 # LangChain Google GenAI Integration
